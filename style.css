@@ -1,0 +1,1328 @@
+.link{
+    background-color: #316DC3;
+    height: 55px;
+    
+}
+.fb{
+    border: none;
+    padding-left: 200px;
+    padding-top: 6px; 
+    
+    
+}
+.twitter{
+    padding-left: 15px;
+    padding-top: 6px;
+}
+.insta{
+    padding-left: 15px;
+    padding-top: 6px;
+}
+.youtube{
+    padding-left: 15px;
+    padding-top: 6px;
+}
+.whatsapp{
+    padding-left: 15px;
+    display: inline-block;
+    padding-top: 10px;
+    
+
+}
+.millions{
+    display: inline-block;
+    color: white;
+     padding-right: 90px;
+    font-size: 15px;
+    font-family: sans-serif;
+    position: relative;
+    top: -10px;
+    bottom: 0px;
+    left: 100px;
+    right: 0px;
+}
+.button1{
+    
+    display: inline-block;
+    cursor: pointer;
+    padding: 6px 8px 6px 8px;
+    position: relative;
+    top: -10px;
+    bottom: 0px;
+    left: 60px;
+    right: 0px;
+    font-size: 12px;
+    background-color:   rgb(247,247,247);
+    color: green;
+    border: 1px solid green;
+
+
+
+}
+.button2{
+
+    cursor: pointer;
+    display: inline-block;
+    padding: 6px 8px 6px 8px;
+    font-size: 12px;
+    background-color:   rgb(247,247,247);
+    color: green;
+    border: 1px solid green;
+    position: relative;
+    top: -10px;
+    bottom: 0px;
+    left: 60px;
+    right: 0px;
+
+}
+.button3{
+  
+    cursor: pointer;
+    padding: 6px 8px 6px 8px;
+    font-size: 12px;
+    background-color:   rgb(247,247,247);
+    color: green;
+    border: 1px solid green;
+    position: relative;
+    top: -10px;
+    bottom: 0px;
+    left: 60px;
+    right: 0px;
+}
+
+.Home{
+    width: 100%;
+background-color: rgb(247,247,247);
+height: 80px;
+
+
+
+
+}
+.saylani{
+    border: none;
+    opacity: 1;
+    height: 110px;
+    width: 200px;
+    padding-left: 200px;
+
+
+}
+.homeb{
+    
+    width: 80px;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 15px;
+        border: 1px solid blue;
+      position: absolute;
+      top: 88px;
+      left: 600px;
+      font-family: sans-serif;
+      
+}
+.about{
+    
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    position: absolute;
+    top: 88px;
+    left: 680px;
+    border-radius: 25px;
+font-size: 13px;
+width: 80px;
+height: 40px;
+    
+    font-family: sans-serif;
+    border: none;
+    
+
+}
+.about:hover{
+color:white;
+background-color: blue;
+font-weight: bold;
+
+
+
+}
+
+
+
+
+.ss{
+    cursor: pointer;
+    position: absolute;
+    padding: 10px;
+    font-weight: bold;
+    top: 88px;
+    left: 760px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    font-size: 15px;
+    border: none
+    
+
+}
+.ss:hover{
+color:white;
+background-color: blue;
+font-weight: bold;
+
+}
+
+.fp{
+    cursor: pointer;
+    position: absolute;
+    padding: 10px;
+    font-weight: bold;
+    top: 88px;
+    left: 890px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    font-size: 15px;
+    border: none
+    
+
+}
+.fp:hover{
+color:white;
+background-color: blue;
+font-weight: bold;
+
+}
+
+.media{
+    cursor: pointer;
+    position: absolute;
+    padding: 10px;
+    font-weight: bold;
+    top: 88px;
+    left: 1012px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    font-size: 15px;
+    border: none
+    
+}
+.media:hover{
+color:white;
+background-color: blue;
+font-weight: bold;
+
+}
+
+
+
+.news{
+    cursor: pointer;
+    position: absolute;
+    padding: 10px;
+    font-weight: bold;
+    top: 88px;
+    left: 1075px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    font-size: 15px;
+    border: none
+    
+}
+.news:hover{
+color:white;
+background-color: blue;
+font-weight: bold;
+
+}
+
+.donation{
+    cursor: pointer;
+    position: absolute;
+    padding: 10px;
+    font-weight: bold;
+    top: 88px;
+    left: 1134px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    font-size: 15px;
+    border: none
+    
+}
+.donation:hover{
+color:white;
+background-color: blue;
+font-weight: bold;
+
+}
+
+.contactus{
+    cursor: pointer;
+    position: absolute;
+    padding: 10px;
+    font-weight: bold;
+    top: 88px;
+    left: 1219px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    font-size: 15px;
+    border: none
+    
+}
+.contactus:hover{
+color:white;
+background-color: blue;
+font-weight: bold;
+
+}
+
+.corona{
+    width: 100%;
+}
+
+
+
+.NEWS{
+    background-color: #316DC3;
+    width: 80%;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    margin: 5px 10px 5px 150px;
+
+
+    
+}
+.news1{
+    color: #66FF00;
+    display: inline;
+}
+.news2{
+    color: white;
+    display: inline;
+}
+.news3{
+    color: blue;
+    font-weight: bold;
+    display: inline;
+}
+
+.div{
+    text-align: center;
+    word-spacing: -10px;
+    margin-top: 15px;
+    height: 800px;
+    background-color: 	rgb(247, 248, 250);
+    
+}
+
+.intro{
+    font-family: myFirstFont;
+    color: blue;
+    display: inline;
+    font-size: 40px;
+    
+
+}
+
+.duction{
+    font-family: myFirstFont;
+    display: inline-block;
+    color: green;
+    font-size: 40px;
+   
+}
+.logo{
+    margin-top: -30px;
+}
+
+
+.history{
+    
+    font-size: 18px;
+     line-height: 30px; 
+    word-spacing: 0.1em; 
+    padding-left: 250px;
+    color: grey;
+    text-align: justify;
+    padding-bottom: 50px;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(Merriweather-Regular.ttf);
+  }
+
+.bluediv{
+    margin-top: -15px;
+    font-family: myFirstFont;
+    background-color: blue;
+    height: 330px;
+    
+    
+}
+
+.spoon{
+    font-size: 10px;
+    padding: 70px 20px 30px 215px ;
+    
+}
+
+.rokra{
+    
+    display: inline;
+    font-size: 50px;
+    color: white;
+    position: relative;
+    left: 153px;
+    right: 0px;
+    top: -50px;
+    bottom: 0px;
+    
+       
+    
+} 
+
+
+.daily{
+    color: white;
+    display: inline;
+    
+    font-weight: bolder;
+    font-size: 15px;
+    position: relative;
+    bottom: 0px;
+    top: -10px;
+    left: -100px;
+    right: 0px;
+
+}
+
+.green{
+    color: rgb(81, 255, 13);
+
+    font-weight: bolder;
+    font-size: 18px;
+    position: relative;
+    bottom: 0px;
+    top: -10px;
+    left: -100px;
+    right: 0px;
+
+}
+
+.family{
+    position: relative;
+    top: -30px;
+    bottom: 0px;
+    right: 0px;
+    left: 280px;
+
+
+}
+.rokra1{
+   font-size: 50px;
+   color: white;
+   position: relative;
+    right: 0px;
+    left: 530px;
+    bottom: 0px ;
+    top: -160px ;
+
+
+}
+.adoption{
+    color: white;
+    display: inline;
+    position: relative;
+    position: relative;
+    right: 0px;
+    left: 473px;
+    bottom: 0px ;
+    top: -205px ;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.monthly{
+    color: rgb(81, 255, 13);
+    font-size: 25px;
+    position: relative;
+    right: 0px;
+    left: 473px;
+    bottom: 0px ;
+    top: -205px ;
+    font-size: 20px;
+
+}
+
+.doctor{
+   position: relative;
+   right: 0px;
+    left: 570px;
+    bottom: 0px ;
+    top: -35px ;
+
+}
+.rokra2{
+    color: white;
+    font-size: 50px;
+    
+    position: relative;
+    right: 0px;
+    left: 847px;
+    bottom: 0px ;
+    top: -350px ;
+}
+
+.medical{
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+    position: relative;
+    left: 835px;
+    right: 0px;
+    top: -388px;
+    bottom: 0px;
+}
+.monthly1{
+    color: rgb(81, 255, 13);
+    font-size: 20px;
+    position: relative;
+    left: 910px;
+    right: 0px;
+    top: -425px;
+    bottom: 0px;
+}
+
+.student{
+    position: relative;
+    left: 800px;
+    right: 0px;
+    top: -35px;
+    bottom: 0px;
+}
+.rokra3{
+    position: relative;
+    left: 1125px;
+    right: 0px;
+    top: -570px;
+    bottom: 0px;
+    font-size: 50px;
+    color: white;
+
+}
+.education{
+    position: relative;
+    left: 1125px;
+    right: 0px;
+    top: -615px;
+    bottom: 0px;
+    font-size: 18px;
+    font-weight: bolder;
+    color: white;
+
+}
+.monthly2{
+    position: relative;
+    left: 1235px;
+    right: 0px;
+    top: -660px;
+    bottom: 0px;
+    font-size: 20px;
+    color: rgb(81, 255, 13);
+    
+}
+
+
+
+.sixbox{
+    padding-top: 60px;
+    background-color: rgb(248,248,248);
+    height: 700px;
+}
+
+
+
+
+.what{
+    font-family: myFirstFont;
+    display: inline; 
+    padding-left: 530px;
+    font-size: 40px;
+    color: #3366ff;
+    font-weight: bolder;
+}
+
+.doing{
+    font-family: myFirstFont;
+     display: inline;
+    font-size: 40px;
+    color:green;
+    font-weight: bolder;
+}
+.logo1{
+    padding-top: -10px;
+    padding-left: 675px;
+}
+
+.firstD{
+    border: 1px solid white;
+    background-color: white;
+    width: 300px;
+    height: 150px;
+    margin-left: 120px;
+    margin-top: 50px;
+    padding: 40px 30px 20px 80px;
+    -webkit-box-shadow: 0 0 5px 2px rgb(190,190,190);
+    -moz-box-shadow: 0 0 5px 2px  rgb(190,190,190);
+    box-shadow: 0 0 10px 2px  rgb(190,190,190);
+    
+}
+.sadqah{
+    padding-left: 70px;
+
+}
+.english1{
+    padding-left: 20px;
+    color: blue;
+    font-size: 25px;
+    font-weight:bolder ;
+}
+
+.secondD{
+   border: 1px solid white;
+  position: relative;
+  top: -210px;
+  bottom: 0px;
+  right: 0px;
+  left: 570px;
+   background-color: white;
+   width: 410px;
+   height: 210px;
+   -webkit-box-shadow: 0 0 5px 2px   rgb(190,190,190);
+    -moz-box-shadow: 0 0 5px 2px   rgb(190,190,190);
+    box-shadow: 0 0 10px 2px   rgb(190,190,190);
+
+
+}
+
+.welfare{
+    padding-left: 140px;
+    padding-top: 39px;
+}
+
+.english2{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+    font-weight:bolder ;
+}
+
+.thirdD{
+    border: 1px solid white;
+    height: 210px;
+    width: 410px;
+    background-color: white;
+    position: relative;
+  top: -420px;
+  bottom: 0px;
+  right: 0px;
+  left: 1020px;
+  -webkit-box-shadow: 0 0 5px 2px   rgb(190,190,190);
+    -moz-box-shadow: 0 0 5px 2px   rgb(190,190,190);
+    box-shadow: 0 0 10px 2px  rgb(190,190,190);
+}
+
+.ala{
+    padding-left: 140px;
+    padding-top: 35px;
+}
+
+.english3{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+    font-weight:bolder ;
+
+}
+
+
+.fourthD{
+border: 1px solid white;
+ width: 410px;
+ height: 210px;
+ background-color: white;
+ position: relative;
+ top: -390px;
+ bottom: 0px;
+ right: 0px;
+ left: 120px;
+ -webkit-box-shadow: 0 0 5px 2px  rgb(190,190,190);
+    -moz-box-shadow: 0 0 5px 2px  rgb(190,190,190);
+    box-shadow: 0 0 10px 2px   rgb(190,190,190);
+}
+.fork{
+    padding-left: 158px;
+    padding-top: 35px;
+}
+.english4{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+    font-weight:bolder ;
+
+}
+
+.fifthD{
+    border: 1px solid white;
+     width: 410px;
+     height: 210px;
+     background-color: white;
+     position: relative;
+     top: -600px;
+     bottom: 0px;
+     right: 0px;
+     left: 570px;
+     -webkit-box-shadow: 0 0 5px 2px   rgb(190,190,190);
+    -moz-box-shadow: 0 0 5px 2px   rgb(190,190,190);
+    box-shadow: 0 0 10px 2px   rgb(190,190,190);
+
+      
+}
+
+.nal{
+    padding-left: 158px;
+    padding-top: 30px;
+}
+
+.english5{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+    font-weight:bolder ;
+   
+}
+
+.sixthD{
+    border: 1px solid white;
+    width: 410px;
+    height: 210px;
+    background-color: white;
+    position: relative;
+    top: -811px;
+    bottom: 0px;
+    right: 0px;
+    left: 1020px;
+    -webkit-box-shadow: 0 0 5px 2px   rgb(190,190,190);
+    -moz-box-shadow: 0 0 5px 2px  rgb(190,190,190);
+    box-shadow: 0 0 10px 2px   rgb(190,190,190);
+
+}
+.kid{
+    padding-left: 158px;
+    padding-top: 30px;
+}
+.english6{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+    font-weight:bolder ;
+}
+
+.mission{
+    color: blue;
+    font-size: 30px;
+    margin-top: -670px;
+    margin-left: 200px;
+    font-weight: bolder;
+    
+}
+.null{
+    margin-top: -10px;
+    background-color: green;
+    height: 2px;
+    width: 60px;
+    margin-left: 200px;
+}
+.fD
+{  
+    margin-top: -150px;
+    margin-left: 200px;
+    background-color: rgb(248, 248,248);
+    height: 80px;
+    width: 400px;
+}
+.heart{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.hepatitis{
+    
+    margin-top: -40px;
+    margin-left: 100px;
+    color: blue;
+    font-size: 23px;
+    font-weight: bold;
+
+}
+
+.sD{
+
+    background-color:  rgb(248, 248,248);
+    height: 80px;
+    width: 400px;
+    margin-top: -81px;
+    margin-left: 630px;
+
+}
+
+.house{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.society{
+    margin-top: -40px;
+    margin-left: 100px;
+    color: blue;
+    font-size: 23px;
+    font-weight: bold;
+
+
+}
+.tD{
+
+     margin-top: 50px; 
+    margin-left: 200px;
+    background-color: rgb(248, 248,248);
+    height: 80px;
+    width: 400px;
+    
+}
+.laptop{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.it{
+     margin-top: -40px;
+    margin-left: 100px; 
+    color: blue;
+    font-size: 23px;
+    font-weight: bold;
+
+}
+
+.FD{
+
+    margin-top: -81px;
+    margin-left: 630px;
+    background-color: rgb(248, 248,248);
+    height: 80px;
+    width: 400px;
+    
+}
+
+.desert{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.thar{
+     margin-top: -40px;
+    margin-left: 100px; 
+    color: blue;
+    font-size: 23px;
+    font-weight: bold;
+
+}
+
+.RD{
+    height: 240px;
+    width: 360px;
+    margin-left: 1100px;
+    margin-top: -80px;
+
+}
+
+.events{
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+.N{
+    text-align: justify;
+    width: 250px;
+}
+.null1{
+    background-color: green;
+     height: 2px;
+    width: 60px; 
+}
+.null2{
+    margin-top: -18px;
+    margin-left: 60px;
+    background-color:  rgb(232,232,232);
+    height: 2px;
+    width: 300px;
+
+} 
+
+.image{
+    font-family: myFirstFont;
+    margin-top: 100px;
+    margin-left: 630px;
+    color: #0066FF;
+    font-size: 35px;
+    font-weight: bold;
+}
+.gallery{
+    font-family: myFirstFont;
+    font-weight: bold;
+    color: green;
+    font-size: 35px;
+    margin-top: -78px;
+    margin-left: 760px;
+
+}
+.LOGO{
+    margin-left: 760px;
+    margin-top: -30px;
+}
+.null3{
+    background-color: green;
+    height: 2px;
+    width: 40px;
+    margin-top: -15px;
+    margin-left: 700px;
+}
+
+.null4{
+    background-color: green;
+    height: 2px;
+    width: 40px;
+    margin-top: -18px;
+    margin-left: 820px;
+}
+.img1{
+margin-left: 230px;
+margin-top: 20px;
+
+}
+
+.black{
+    margin-top: 100px;
+    background-color: 		rgb(24,24,24);
+    padding-bottom: 80px;
+    
+}
+.useful{
+    padding-top: 100px;
+    padding-left: 550px;
+    color: white;
+    font-size: 20px;
+    margin-left: 60px;
+}
+.connect{
+    display: inline-block;
+    position: relative;
+    top: -62px;
+    bottom: 0px;
+    left: 1080px;
+    right: 0px;
+
+    color: white;
+    font-size: 20px;
+
+
+}
+.null5{
+ height: 2px;
+ width: 50px;
+ background-color: green;
+ position: relative ;
+top: -90px;
+bottom: 0px;
+left: 610px ;
+right: 0px;
+
+}
+.null6{
+height: 1px;
+width: 350px;
+background-color:  rgb(144,144,144);
+position: relative;
+top: -107px;
+bottom: 0px;
+left: 659px ;
+right: 0px;
+
+}
+.fb1{
+    opacity: 1;
+    position: relative;
+    top: -120px;
+    bottom: 0px;
+    left: 1080px;
+    right: 0px;
+}
+.insta1{
+    opacity: 1;
+    position: relative;
+    top: -125px;
+    bottom: 0px;
+    left: 1080px;
+    right: 0px;
+    
+}
+.twitter1{
+    opacity: 1;
+    position: relative;
+    top: -123px;
+    bottom: 0px;
+    left: 1080px;
+    right: 0px;
+}
+.youtube1{
+    opacity: 1;
+    position: relative;
+    top: -125px;
+    bottom: 0px;
+    left: 1080px;
+    right: 0px;
+}
+.firstp{
+    color:  rgb(144,144,144) ;
+    margin-left: 220px;
+    margin-top: -180px;
+}
+
+.secondp{
+    color:  rgb(144,144,144) ;
+    margin-left: 220px;
+    
+}
+
+.thirdp{
+    color:  rgb(144,144,144) ;
+     margin-left: 220px;
+    
+}
+
+.fourthp{
+    color:  rgb(144,144,144) ;
+    margin-left: 220px;
+    
+}
+.fifthp{
+    color:  rgb(144,144,144) ;
+    margin-left: 220px;
+    
+}
+.sixp{
+    color:  rgb(144,144,144) ;
+    margin-left: 220px;
+    margin-top: -10px;
+   
+}
+.message{
+    position: relative;
+    top: 10px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+.last{
+    color: white;
+    font-size: 13px;
+    padding-left: 220px;
+    padding-top: 20px;
+    background-color: #3366FF;
+    margin-top: -16px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
